@@ -16,8 +16,6 @@
 // echo "<hr>";
 // echo ContohStatic::halo();
 
-use PSpell\Config;
-
 class Contoh
 {
     public static $angka = 1;
